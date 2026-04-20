@@ -1,6 +1,7 @@
 {
   "version": 1,
   "baseUrls": [
-    "https://yorumama-api.duckdns.org/api/live_agent/v1"
+    "https://yorumama-api.duckdns.org/api/live_agent/v1",
+    "https://yorumama.crabdance.com/api/live_agent/v1"
   ]
 }
