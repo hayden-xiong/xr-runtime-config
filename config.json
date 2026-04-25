@@ -1,7 +1,6 @@
 {
-  "version": 2,
+  "version": 3,
   "baseUrls": [
-    "https://yorumama-api.duckdns.org/api/live_agent/v1",
-    "https://yorumama.serveirc.com/api/live_agent/v1"
+    "https://api.haydenxiong.com/api/live_agent/v1"
   ]
 }
