@@ -1,6 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "baseUrls": [
+    "https://api-dev.haydenxiong.com/api/live_agent/v1",
     "https://api.haydenxiong.com/api/live_agent/v1"
   ]
 }
